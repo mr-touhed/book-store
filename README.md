@@ -6,7 +6,7 @@ A simple React app built with React & React Router Dom.
 Github Repo -> [nextPage-complete](https://github.com/mr-touhed/book-store.git)
 
 ## Live Link
-Hosted in Netlify -> [nextPage]()
+Hosted in Netlify -> [nextPage](https://library-shop.netlify.app/)
 
 ## API 
 Documentation Link -> [It Bookstore API](https://api.itbook.store/)
